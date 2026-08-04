@@ -1,7 +1,1 @@
-
-self.addEventListener('install', e => {
-  e.waitUntil(caches.open('donjeis-v1').then(c => c.addAll(['./index.html','./manifest.json','./logo.jpg'])));
-});
-self.addEventListener('fetch', e => {
-  e.respondWith(caches.match(e.request).then(r => r || fetch(e.request)));
-});
+self.addEventListener('install',e=>{e.waitUntil(caches.open('donjeis-v16').then(c=>c.addAll(['./index.html','./manifest.json','./logo.jpg','./kilo.webp','./tacos.webp','./otros.webp'])))});self.addEventListener('fetch',e=>{e.respondWith(caches.match(e.request).then(r=>r||fetch(e.request)))})

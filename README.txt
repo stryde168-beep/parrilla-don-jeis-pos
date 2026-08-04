@@ -1,14 +1,13 @@
-Parrilla Don Jeis - PWA
-
-1. Descomprime
-2. Sube la carpeta a tu hosting o abre index.html
-3. Para instalar en celular: abrir index.html en Safari/Chrome > Compartir > Agregar a pantalla de inicio
-
-Incluye:
-- index.html (app completa)
-- logo.jpg
-- manifest.json
-- sw.js
-
-Contacto WhatsApp reporte: 525587915323
-Banco: Clave 0361 8050 0649 140744 Inbursa Jesús Rosas
+Parrilla Don Jeis V16 FINAL - Whatsapp Generico
+- Por Kilo: Arrachera 380/kg, Rib Eye 600/kg
+- Tacos: 3x110 con opciones
+- Pollos
+- Otros: Hamburguesa Arrachera 140, Alitas 12p 200, 6p 100, Choripan 95, Berlin Dog 120
+- Fotos locales
+- Cliente auto
+- 4 pagos: Efectivo, Transferencia (Inbursa Stybaliz Aldaraca Calderon CLABE 036180500778638402), Combinado (efectivo+transferencia), Tarjeta
+- Corte caja desglosado
+- Historial tabs Ventas/Insumos finde
+- Menu QR con QR y fotos
+- Whatsapp generico sin numero fijo (wa.me/?text=)
+- Excel y PDF
